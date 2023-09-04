@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">lol</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="your_name">Your name</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="username">Username</string>
+    <string name="enter_a_username">Enter a username</string>
+    <string name="login_here">Login here</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="password">Password</string>
+    <string name="enter_a_strong_password">Enter a strong password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="confirm_your_password">Confirm your password</string>
+    <string name="having_an_account">"Having an account? "</string>
+    <string name="login">Login</string>
+    <string name="doesn_t_have_an_account">"Doesn't have an account? "</string>
+    <string name="signup_here">Signup here</string>
+</resources>

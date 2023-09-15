@@ -4,6 +4,13 @@
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
+    <style name="Theme.App.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ss</item>
+        <item name="android:layout_width">240dp</item>
+        <item name="android:layout_height">240dp</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.Lol</item>
+    </style>
 
     <style name="Theme.Lol" parent="Base.Theme.Lol" />
 </resources>

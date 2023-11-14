@@ -19,4 +19,15 @@
     <string name="hello_lukman">Hello, Lukman!</string>
     <string name="we_have_recommendation_for_you">We have recommendation for you</string>
     <string name="kisah_adonis_dan_aphrodite">Kisah Adonis dan Aphrodite</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="search">search</string>
+    <string name="news_latest">news_latest</string>
 </resources>

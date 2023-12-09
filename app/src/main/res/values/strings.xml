@@ -30,4 +30,8 @@
     <string name="previous">Previous</string>
     <string name="search">search</string>
     <string name="news_latest">news_latest</string>
+    <string name="judul">Judul</string>
+    <string name="chapter_1">Chapter 1</string>
+
+
 </resources>

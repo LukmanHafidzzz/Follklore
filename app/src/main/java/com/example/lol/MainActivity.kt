@@ -41,6 +41,7 @@ class MainActivity : AppCompatActivity() {
         tvLogin.setOnClickListener {
             val intent = Intent(this,Login_Activity::class.java)
             startActivity(intent)
+
         }
 
     }
@@ -57,6 +58,7 @@ class MainActivity : AppCompatActivity() {
         val db = AppDatabase.getDatabase(this)
         val dao = db?.userDao()
         dao?.insertAll(user)
+        val intent = startActivity(Intent(this,Login_Activity::class.java))
 
     }
 }
